@@ -21,6 +21,7 @@ We want to build an endpoint to get data for display in chartjs. Your job is to 
 send the data to the frontend.
 
 - [ ] Create a GET endpoint at `/api/visualization/data`.
-- [ ] Return the `austrianGDP` array as a JSON response object.
+- [ ] Get the data contained in the `austrianGDP.txt` file and turn it into a JSON object.
+- [ ] Return the data array as a JSON response object.
 - [ ] If necessary, implement error handling. If it is unnecessary, express why you feel it is unnecessary in this case.
 - [ ] **Bonus**: using the already installed chart.js library, transform the received data and display it using a line chart.
