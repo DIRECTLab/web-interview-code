@@ -7,13 +7,13 @@
 
 
 ## NginX - Pushing Changes to a Server (Take 10 Minutes)
+We have set up SSH credentials for you on the computer you are currently using. We want you to host the incredible website
+you have just created.
 
-- [ ] SSH into the server we have set up: `madramsdell@35.209.208.115`
+- [ ] SSH into the server we have set up - username: `madramsdell` ip address: `35.209.208.115`
 - [ ] Build the code on the server for production.
 - [ ] Copy the configuration file `config.cfg` onto the server into the home directory.
-- [ ] Pretend that you have made a change to the nginx configuration in `/etc/nginx`. 
-    How would you apply the changes to the running server?
-- [ ] Questions
+- [ ] Pretend that you have made a change to the nginx configuration in `/etc/nginx`. Run the command to apply the changes to the running server.
 
 
 ## Chartjs - Backend Route Creation (Take 10 Minutes)
